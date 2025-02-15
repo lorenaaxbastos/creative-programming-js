@@ -1,0 +1,23 @@
+{
+  "name": "creative-programming",
+  "version": "1.0.0",
+  "description": "creative programming projects in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenaaxbastos/creative-programming-js.git"
+  },
+  "keywords": [
+    "creative",
+    "programming"
+  ],
+  "author": "Lorena Bastos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorenaaxbastos/creative-programming-js/issues"
+  },
+  "homepage": "https://github.com/lorenaaxbastos/creative-programming-js#readme"
+}
