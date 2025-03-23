@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/lorenaaxbastos/creative-programming-js/issues"
   },
-  "homepage": "https://github.com/lorenaaxbastos/creative-programming-js#readme"
+  "homepage": "https://github.com/lorenaaxbastos/creative-programming-js#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.7"
+  }
 }
